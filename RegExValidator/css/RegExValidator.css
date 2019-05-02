@@ -1,0 +1,19 @@
+.dynamicscode\.RegExValidator input {
+    border:0px;
+    margin: 1px 0;
+    background:transparent;
+    -webkit-appearance:none;
+    width:100%;padding:0;
+    height:24px;
+    -webkit-tap-highlight-color:transparent
+}
+
+.dynamicscode\.RegExValidator input.warning {
+    border: 2px dashed #f00;
+    margin: 1px 0;
+    background:transparent;
+    -webkit-appearance:none;
+    width:100%;padding:0;
+    height:24px;
+    -webkit-tap-highlight-color:transparent
+}

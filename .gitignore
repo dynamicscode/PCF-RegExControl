@@ -1,0 +1,31 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+
+# generated directory
+**/generated
+
+# output directory
+/out
+RegExControlSolution/bin/Debug/SolutionPackager.log
+RegExControlSolution/obj/Debug/other/Solution.xml
+RegExControlSolution/obj/project.assets.json
+RegExControlSolution/obj/Debug/Controls/RegExValidator/ControlManifest.xml
+RegExControlSolution/obj/Debug/Controls/RegExValidator/ControlManifest.xml.data.xml
+RegExControlSolution/obj/Debug/Controls/RegExValidator/RegExValidator.css
+RegExControlSolution/obj/Debug/Controls/RegExValidator/bundle.js
+RegExControlSolution/obj/Debug/other/Customizations.xml
+RegExControlSolution/obj/Debug/other/Relationships.xml
+RegExControlSolution/obj/RegExControlSolution.cdsproj.nuget.g.targets
+RegExControlSolution/obj/RegExControlSolution.cdsproj.nuget.cache
+RegExControlSolution/obj/RegExControlSolution.cdsproj.nuget.dgspec.json
+RegExControlSolution/obj/RegExControlSolution.cdsproj.nuget.g.props
+RegExControlSolution/other/Solution.xml
+RegExControlSolution/other/Customizations.xml
+RegExControlSolution/other/Relationships.xml
+obj/project.assets.json
+obj/RegExControl.pcfproj.nuget.cache
+obj/RegExControl.pcfproj.nuget.dgspec.json
+obj/RegExControl.pcfproj.nuget.g.props
+obj/RegExControl.pcfproj.nuget.g.targets
